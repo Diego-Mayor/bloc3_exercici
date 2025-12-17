@@ -1,2 +1,8 @@
 La vida de Brian
+<<<<<<< HEAD
 Monty Python and the Holy Grail
+=======
+Monty Python and the Holy Grail
+El padrino
+El sentido de la vida
+>>>>>>> d202ca9 (Limpieza conflictos peliculas.txt)
