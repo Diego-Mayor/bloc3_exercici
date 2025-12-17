@@ -1,7 +1,2 @@
 La vida de Brian
-<<<<<<< HEAD
 Monty Python and the Holy Grail
-=======
-La vida de Brian
->>>>>>> origin/main
-El padrino
